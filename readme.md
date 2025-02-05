@@ -64,7 +64,7 @@ If you use TwinMarket in your research, please cite the following paper:
 
 ```bibtex
 @misc{yang2025twinmarketscalablebehavioralsocialsimulation,
-      title={TwinMarket: A Scalable Behavioral and SocialSimulation for Financial Markets}, 
+      title={TwinMarket: A Scalable Behavioral and Social Simulation for Financial Markets}, 
       author={Yuzhe Yang and Yifei Zhang and Minghao Wu and Kaidi Zhang and Yunmiao Zhang and Honghai Yu and Yan Hu and Benyou Wang},
       year={2025},
       eprint={2502.01506},
