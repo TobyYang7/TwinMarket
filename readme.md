@@ -1,6 +1,6 @@
 # TwinMarket: A Scalable Behavioral and Social Simulation for Financial Markets
 
-<img src="./src/TwinMarket.jpg" alt="Logo" >
+![overview](./src/TwinMarket.jpg)
 
 ## Overview
 **TwinMarket** is a novel multi-agent framework designed to simulate socio-economic systems using large language models (LLMs). The framework focuses on modeling individual investor behaviors and their interactions within a simulated stock market environment. By leveraging the **Belief-Desire-Intention (BDI)** framework, TwinMarket captures the cognitive processes of agents, enabling the study of emergent phenomena such as financial bubbles, recessions, and market volatility.
@@ -23,7 +23,7 @@ The project aims to bridge the gap between micro-level individual decision-makin
 
 ### Data Sources
 
-![1738736488423](./src/data.png)
+![data](./src/data.png)
 
 - **Real-World Data**: TwinMarket integrates real user profiles, transaction details, stock data, and news articles to create a realistic simulation environment.
 - **Initial User Profiles**: User profiles are generated using real transaction data from platforms like Xueqiu, ensuring diversity in agent behavior.
