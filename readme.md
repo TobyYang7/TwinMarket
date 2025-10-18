@@ -1,6 +1,7 @@
 # TwinMarket: A Scalable Behavioral and Social Simulation for Financial Markets
 
-<mark style="font-size: 1.5em;">**NOTE: We will update our code soon!**</mark>
+
+<mark style="font-size: 1.5em;">**NOTE: The offical repo has moved to [[freedomintelligence/TwinMarket]](https://github.com/freedomintelligence/TwinMarket) **</mark>
 
 
     
